@@ -114,6 +114,23 @@ The report should contain the following:
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
 - - -
+Target Variable for the model:
+
+IS_SUCCESSFUL
+Feature Variables for the model:
+
+APPLICATION_TYPE
+AFFILIATION
+CLASSIFICATION
+USE_CASE
+ORGANIZATION
+STATUS
+INCOME_AMT
+SPECIAL_CONSIDERATIONS
+ASK_AMT
+
+
+
 
 ## Rubric
 
